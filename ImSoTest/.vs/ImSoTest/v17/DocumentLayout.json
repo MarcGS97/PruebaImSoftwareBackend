@@ -42,8 +42,7 @@
               "RelativeToolTip": "ImSoTest\\DAL\\UsuariosDAL.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAwwIYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T22:06:37.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T22:06:37.332Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ImSoTest\\DTO\\UsuarioDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T18:23:56.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T18:23:56.629Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "ImSoTest\\DTO\\PersonaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T18:23:30.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T18:23:30.645Z"
             },
             {
               "$type": "Document",
@@ -98,7 +95,7 @@
               "RelativeDocumentMoniker": "ImSoTest\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\User39\\Documents\\PruebaImSoftwareBackend\\ImSoTest\\ImSoTest\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "ImSoTest\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T22:10:38.784Z",
               "EditorCaption": ""

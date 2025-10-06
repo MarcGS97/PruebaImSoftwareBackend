@@ -1,0 +1,127 @@
+# =========================
+# Visual Studio / .NET 8
+# =========================
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+
+## Visual Studio working folder
+.vs/
+
+## Debug / Release folders
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## Publish
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+publish/
+publishprofiles/
+app.publish/
+
+## NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.cache/
+*.dll
+packages/
+# except build/ props targets
+!**/packages/build/
+!**/packages/build/**
+
+## Others
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
+*.tmp
+*.bak
+*.config
+*.orig
+*.ide
+*.tlog
+*.pch
+*.pdb
+*.opendb
+
+# JetBrains Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Node / Angular
+# =========================
+
+## Dependencies
+node_modules/
+jspm_packages/
+
+## Build output
+dist/
+out-tsc/
+coverage/
+.tmp/
+temp/
+
+## Angular cache
+.angular/
+.angular/cache/
+.angular/local/
+.angular/server/
+
+## Environment files
+src/environments/environment*.ts
+
+## Editor settings
+.vscode/
+*.code-workspace
+
+## OS files
+Thumbs.db
+.DS_Store
+
+## npm / yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Others
+*.tgz
+*.zip
+
+# =========================
+# Git / Misc
+# =========================
+
+# Ignore local git config
+.gitconfig
+.gitignore.local
+
+# Ignore backups and temp files
+~$*
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# End of .gitignore
