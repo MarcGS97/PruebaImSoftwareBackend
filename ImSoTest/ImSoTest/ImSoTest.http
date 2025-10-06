@@ -1,0 +1,6 @@
+@ImSoTest_HostAddress = http://localhost:5242
+
+GET {{ImSoTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
